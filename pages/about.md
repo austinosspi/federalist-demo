@@ -7,7 +7,7 @@ image: /assets/img/about.jpg
 
 ## About GSA
 
-GSA runs the streets like wild wolves. 
+GSA runs the street. 
 
 ### Mission
 
